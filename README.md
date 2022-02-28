@@ -2,7 +2,7 @@
 🌈
 <p align="left">
 
-  Oii, meu nome é Rafaela, sou estudante/entusiasta <strong>Front-end</strong>. 💙<br>
+  Oii, meu nome é Rafaela, sou estudante/entusiasta <strong>Front-end</strong>, com um pézinho no UI Design 💙<br>
  
 </p>
 
