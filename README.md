@@ -40,4 +40,6 @@
 </p>  
 <br>
 
-[![itsrasfa](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=tokyonight)](https://github.com/itsrasfa/)
+
+
+[![itsrasfa](https://github-readme-stats.vercel.app/api/top-langs/?username=itsrasfa&layout=compact&theme=tokyonight)](https://github.com/itsrasfa/)
