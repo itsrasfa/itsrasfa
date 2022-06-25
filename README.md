@@ -10,7 +10,7 @@
  🦄 Tecnologias: <strong>HTML, CSS, SASS e JavaScript.</strong>
 </p>
 <p align="left">
-👩🏻‍💻 Learning: <strong>Vue.js, React, Redux...</strong>
+👩🏻‍💻 Learning: <strong>React, Vue.js, Redux...</strong>
 </p>
 <p align="left">
 💻 Ferramentas: <strong>VS Code e Figma.</strong>
@@ -40,4 +40,4 @@
 </p>  
 <br>
 
-[![itsrasfa](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=radical)](https://github.com/itsrasfa/)
+[![itsrasfa](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=tokyonight)](https://github.com/itsrasfa/)
