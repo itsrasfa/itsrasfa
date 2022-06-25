@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 🌈
 <p align="left">
 
@@ -40,6 +40,6 @@
 </p>  
 <br>
 
+[![card](https://github-readme-stats.vercel.app/api?username=itsrasfa&theme=tokyonight&show_icons=true)](https://github.com/itsrasfa/github-readme-stats)
 
-
-[![itsrasfa](https://github-readme-stats.vercel.app/api/top-langs/?username=itsrasfa&layout=compact&theme=tokyonight)](https://github.com/itsrasfa/)
+[![itsrasfa](https://github-readme-stats.vercel.app/api/top-langs/?username=itsrasfa&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/itsrasfa/github-readme-stats)
