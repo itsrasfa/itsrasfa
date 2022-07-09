@@ -1,15 +1,17 @@
-![github (1)](https://user-images.githubusercontent.com/97412434/178092801-81f3cff9-14ba-4d5f-adc1-c5cdbee675d6.svg)
+
+![github (1)](https://user-images.githubusercontent.com/97412434/178117359-90339ecf-d9b2-4c15-b1a6-dcba891f9e92.svg)
+
 
 
 
 <p align="left">
- 🦄 Tecnologias: <strong>HTML, CSS, SASS e JavaScript.</strong>
+ 🦄 <strong> Tecnologias:</strong> HTML, CSS, SASS e JavaScript.
 </p>
 <p align="left">
-👩🏻‍💻 Learning: <strong>React, Vue.js, Redux...</strong>
+👩🏻‍💻 <strong>Learning:</strong> React, Vue.js, Redux...
 </p>
 <p align="left">
-💻 Ferramentas: <strong>VS Code e Figma.</strong>
+💻 <strong>Ferramentas: </strong>VS Code e Figma.
 </p>
 <br>
 
