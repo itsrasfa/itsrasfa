@@ -1,11 +1,6 @@
-<img src="https://user-images.githubusercontent.com/97412434/176587474-fe3a21e2-9d63-43ec-88e2-06915f78535b.png" min-width="400px" max-width="400px" width="400px" align="right">
+![github (1)](https://user-images.githubusercontent.com/97412434/178092801-81f3cff9-14ba-4d5f-adc1-c5cdbee675d6.svg)
 
-🌈
-<p align="left">
 
-  Oii, meu nome é Rafaela, sou estudante/entusiasta <strong>Front-end</strong>, com um pézinho no UI Design 💙<br>
- 
-</p>
 
 <p align="left">
  🦄 Tecnologias: <strong>HTML, CSS, SASS e JavaScript.</strong>
@@ -38,7 +33,7 @@
 <div>
   <a href="https://github.com/itsrasfa">
   <img src="https://github-readme-stats.vercel.app/api?username=itsrasfa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrasfa&hide=html&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrasfa&hide=html&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <br>
