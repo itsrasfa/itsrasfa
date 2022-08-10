@@ -33,8 +33,9 @@ const person {
  <br>
 <div>
   <a href="https://github.com/itsrasfa">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsrasfa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrasfa&hide=html&layout=compact&langs_count=7&theme=tokyonight"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=itsrasfa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrasfa&hide=html&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <br>
