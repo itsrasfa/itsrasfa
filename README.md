@@ -1,5 +1,3 @@
-<img align="right" width="230" height="230" src="https://user-images.githubusercontent.com/97412434/183806527-3c36f769-f724-4536-a394-87702da00b74.gif" />
-
 
 
 ```javascript
@@ -16,6 +14,7 @@ const person {
 
 
 <br>
+<img align="right" width="230" height="230" src="https://user-images.githubusercontent.com/97412434/183806527-3c36f769-f724-4536-a394-87702da00b74.gif" />
 
    ![icons8-html-5 (1)](https://user-images.githubusercontent.com/97412434/155586433-60a6dfe2-28ac-4f4d-ac0d-8bd1262ee9ff.svg)
 ![icons8-css3 (1)](https://user-images.githubusercontent.com/97412434/155586627-c3078866-833f-4022-90bb-a5133cce86c7.svg)
