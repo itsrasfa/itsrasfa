@@ -1,20 +1,19 @@
 
+<img width="150" height="150" src="https://user-images.githubusercontent.com/97412434/183806527-3c36f769-f724-4536-a394-87702da00b74.gif" />
 
 ```javascript
 const person {
   name: "Rafaela",
   age: 27,
-  occupation: "Front-end developer"
+  occupation: "Front-end developer",
 }
   
- const skills = ['HTML', 'CSS', 'SASS', 'JavaScript']
+ const skills = ['HTML', 'CSS', 'SASS','JavaScript']
   
  const learning = ['React', 'Nextjs', 'TypeScript']
 ```
 
-
 <br>
-<img align="right" width="230" height="230" src="https://user-images.githubusercontent.com/97412434/183806527-3c36f769-f724-4536-a394-87702da00b74.gif" />
 
    ![icons8-html-5 (1)](https://user-images.githubusercontent.com/97412434/155586433-60a6dfe2-28ac-4f4d-ac0d-8bd1262ee9ff.svg)
 ![icons8-css3 (1)](https://user-images.githubusercontent.com/97412434/155586627-c3078866-833f-4022-90bb-a5133cce86c7.svg)
@@ -33,7 +32,8 @@ const person {
 <div>
   <a href="https://github.com/itsrasfa">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=itsrasfa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=itsrasfa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>   
+    
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrasfa&hide=html&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
