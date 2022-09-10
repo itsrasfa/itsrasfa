@@ -32,9 +32,9 @@ const person {
 <div>
   <a href="https://github.com/itsrasfa">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=itsrasfa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>   
+  <img src="https://github-readme-stats.vercel.app/api?username=itsrasfa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>   
     
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrasfa&hide=html&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrasfa&hide=html&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <br>
