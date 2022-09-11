@@ -1,17 +1,5 @@
 
-<img width="150" height="150" src="https://user-images.githubusercontent.com/97412434/183806527-3c36f769-f724-4536-a394-87702da00b74.gif" />
-
-```javascript
-const person {
-  name: "Rafaela",
-  age: 27,
-  occupation: "Front-end developer",
-}
-  
- const skills = ['HTML', 'CSS', 'SASS','JavaScript']
-  
- const learning = ['React', 'Nextjs', 'TypeScript']
-```
+<img width="700"  src="https://user-images.githubusercontent.com/97412434/189505625-0a1b47dd-4cbb-4958-9e98-6cd9bf7e53f7.svg" />
 
 <br>
 
@@ -25,9 +13,10 @@ const person {
 
    
 <br>
- <a href="https://www.linkedin.com/in/itsrafa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://instagram.com/itsrasfa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <br>
+<div>
+ <img src="https://img.shields.io/badge/-Linkedin-0D1017?style=for-the-badge&logo=Linkedin&logoColor=505082&link=https://www.linkedin.com/in/itsrafa/"/>
+ <img src="https://img.shields.io/badge/-Instagram-0D1017?style=for-the-badge&logo=Instagram&logoColor=505082&link=https://www.instagram.com/itsrafa"/>
+ </div>
  <br>
 <div>
   <a href="https://github.com/itsrasfa">
