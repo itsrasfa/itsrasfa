@@ -12,8 +12,8 @@
    
 <br>
 <div>
- <img src="https://img.shields.io/badge/-Linkedin-0D1017?style=for-the-badge&logo=Linkedin&logoColor=505082&link=https://www.linkedin.com/in/itsrafa/"/>
- <img src="https://img.shields.io/badge/-Instagram-0D1017?style=for-the-badge&logo=Instagram&logoColor=505082&link=https://www.instagram.com/itsrafa"/>
+<a href="https://www.linkedin.com/in/itsrafa/"><img src="https://img.shields.io/badge/-Linkedin-0D1017?style=for-the-badge&logo=Linkedin&logoColor=505082&link=https://www.linkedin.com/in/itsrafa/"/></a>
+<a href="https://www.instagram.com/itsrafa"><img src="https://img.shields.io/badge/-Instagram-0D1017?style=for-the-badge&logo=Instagram&logoColor=505082&link=https://www.instagram.com/itsrafa"/></a>
  </div>
  <br>
 <div>
