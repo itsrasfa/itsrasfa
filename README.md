@@ -1,19 +1,20 @@
 
-<img width="700"  src="https://user-images.githubusercontent.com/97412434/189505625-0a1b47dd-4cbb-4958-9e98-6cd9bf7e53f7.svg" />
+<img width="700" src="https://user-images.githubusercontent.com/97412434/189544466-90c1aeea-7970-42a8-9feb-f168f9113558.svg" />
+
 
 <br>
 <div>
- <img src="https://img.shields.io/badge/JavaScript-0D1017?style=for-the-badge&logo=javascript&logoColor=505082"/>
- <img src="https://img.shields.io/badge/TypeScript-0D1017?style=for-the-badge&logo=typescript&logoColor=505082"/>
- <img src="https://img.shields.io/badge/Sass-0D1017?style=for-the-badge&logo=sass&logoColor=505082"/>
- <img src="https://img.shields.io/badge/React-0D1017?style=for-the-badge&logo=react&logoColor=505082"/>
- <img src="https://img.shields.io/badge/styled--components-0D1017?style=for-the-badge&logo=styled-components&logoColor=505082"/>
+ <img src="https://img.shields.io/badge/JavaScript-505082?style=for-the-badge&logo=javascript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/TypeScript-505082?style=for-the-badge&logo=typescript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Sass-505082?style=for-the-badge&logo=sass&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React-505082?style=for-the-badge&logo=react&logoColor=white"/>
+ <img src="https://img.shields.io/badge/styled--components-505082?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </div>
    
 <br>
 <div>
-<a href="https://www.linkedin.com/in/itsrafa/"><img src="https://img.shields.io/badge/-Linkedin-0D1017?style=for-the-badge&logo=Linkedin&logoColor=505082&link=https://www.linkedin.com/in/itsrafa/"/></a>
-<a href="https://www.instagram.com/itsrafa"><img src="https://img.shields.io/badge/-Instagram-0D1017?style=for-the-badge&logo=Instagram&logoColor=505082&link=https://www.instagram.com/itsrafa"/></a>
+<a href="https://www.linkedin.com/in/itsrafa/"><img src="https://img.shields.io/badge/-Linkedin-505082?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsrafa/"/></a>
+<a href="https://www.instagram.com/itsrafa"><img src="https://img.shields.io/badge/-Instagram-505082?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/itsrafa"/></a>
  </div>
  <br>
 <div>
