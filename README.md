@@ -13,7 +13,7 @@
 <br>
 <div>
 <a href="https://www.linkedin.com/in/itsrafa/"><img src="https://img.shields.io/badge/-Linkedin-505082?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsrafa/"/></a>
-<a href="https://www.instagram.com/itsrafa"><img src="https://img.shields.io/badge/-Instagram-505082?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/itsrafa"/></a>
+<a href="https://www.instagram.com/itsrasfa"><img src="https://img.shields.io/badge/-Instagram-505082?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/itsrasfa"/></a>
  </div>
  <br>
 <div>
