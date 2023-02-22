@@ -5,8 +5,8 @@
  <img src="https://img.shields.io/badge/JavaScript-505082?style=for-the-badge&logo=javascript&logoColor=white"/>
  <img src="https://img.shields.io/badge/TypeScript-505082?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next-505082?style=for-the-badge&logo=next.js&logoColor=white"/>
-
- <img src="https://img.shields.io/badge/React-505082?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-505082?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react_query-505082?style=for-the-badge&logo=react-query&logoColor=white"/>
  <img src="https://img.shields.io/badge/styled--components-505082?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-505082?style=for-the-badge&logo=sass&logoColor=white"/>
 </div>
