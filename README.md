@@ -20,9 +20,9 @@
 <div>
   <a href="https://github.com/itsrasfa">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=itsrasfa&show_icons=true&theme=nord&bg_color=0D1017&hide_border=true&include_all_commits=true&count_private=true"/>   
-    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrasfa&hide=html&layout=compact&langs_count=7&theme=nord&bg_color=0D1017&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=itsrasfa&show_icons=true&title_color=505082&text_color=FFF&icon_color=505082&bg_color=0D1017&cache_seconds=2300&hide_border=true&include_all_commits=true&count_private=true" />
+
+
 </div>
 
 <br>
