@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Next-0D1017?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-505082?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/react_query-0D1017?style=for-the-badge&logo=react-query&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Graphql-505082?style=for-the-badge&logo=graphql&logoColor=white"/>
 <br><br>
  <img src="https://img.shields.io/badge/styled--components-505082?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </div>
